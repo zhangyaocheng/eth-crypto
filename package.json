@@ -39,14 +39,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pubkey/eth-crypto.git"
+    "url": "git+https://github.com/zhangyaocheng/eth-crypto.git"
   },
   "author": "pubkey",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pubkey/eth-crypto/issues"
+    "url": "https://github.com/zhangyaocheng/eth-crypto/issues"
   },
-  "homepage": "https://github.com/pubkey/eth-crypto#readme",
+  "homepage": "https://github.com/zhangyaocheng/eth-crypto#readme",
   "devDependencies": {
     "assert": "1.4.1",
     "async-test-util": "1.6.2",
